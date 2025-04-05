@@ -1,0 +1,1 @@
+I created a public repository named git-survival, linked my local project to it, and pushed all existing assignment files.
